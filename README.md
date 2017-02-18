@@ -1,2 +1,8 @@
 # Basic-Portfolio
-1st 
+-first website 
+
+#Get Started 
+-Run <'index.html'> to view the root page 
+
+#Lanugages/Technologies used 
+- HTML5, CSS
